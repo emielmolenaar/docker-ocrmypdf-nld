@@ -1,3 +1,3 @@
 FROM jbarlow83/ocrmypdf
 
-RUN apt install tesseract-ocr-nld
+RUN apt-get update && apt-get install tesseract-ocr-nld
