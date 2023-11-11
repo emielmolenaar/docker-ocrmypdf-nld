@@ -1,3 +1,3 @@
-FROM jbarlow83/ocrmypdf
+FROM jbarlow83/ocrmypdf-alpine
 
-RUN apt-get update && apt-get install tesseract-ocr-nld
+RUN apk add --no-cache tesseract-ocr-data-nld
