@@ -4,4 +4,4 @@ Repository for https://hub.docker.com/repository/docker/emielmolenaar/ocrmypdf-n
 
 OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched.
 
-Current version: v15.3.0
+Current version: v15.4.3
